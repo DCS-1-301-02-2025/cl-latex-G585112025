@@ -1,10 +1,10 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.uptex) (TeX Live 2023/Debian) (preloaded format=uplatex 2025.6.30)  30 JUN 2025 14:52
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.uptex) (TeX Live 2023/Debian) (preloaded format=uplatex 2025.6.30)  30 JUN 2025 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/takos/Desktop/Literacy/cl-latex-G585112025/sample.tex
-(/home/takos/Desktop/Literacy/cl-latex-G585112025/sample.tex
+**/home/takos/Desktop/Literacy/cl-latex-G585112025/exercise.tex
+(/home/takos/Desktop/Literacy/cl-latex-G585112025/exercise.tex
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -63,64 +63,75 @@ File: l3backend-dvipdfmx.def 2024-01-04 L3 backend support: dvipdfmx
 \g__pdf_backend_object_int=\count197
 \g__pdf_backend_annotation_int=\count198
 \g__pdf_backend_link_int=\count199
-) (./sample.aux)
-\openout1 = `sample.aux'.
+) (./exercise.aux)
+\openout1 = `exercise.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 13.
+(Font)              scaled to size 16.62714pt on input line 14.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 13.
+(Font)              scaled to size 16.62714pt on input line 14.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 13.
+(Font)              scaled to size 11.54663pt on input line 14.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 13.
+(Font)              scaled to size 11.54663pt on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 14.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 13.
+(Font)              scaled to size 7.69775pt on input line 14.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 13.
+(Font)              scaled to size 5.77332pt on input line 14.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 15.
+(Font)              scaled to size 13.85594pt on input line 16.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 15.
+(Font)              scaled to size 13.85594pt on input line 16.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 15.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 15.
+(Font)              scaled to size 13.85594pt on input line 16.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 15.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 15.
-File: possession.png Graphic file (type bmp)
-<possession.png>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 42.
+(Font)              scaled to size 13.85594pt on input line 16.
+File: 表１.png Graphic file (type bmp)
+<表１.png>
  [1
 
-] (./sample.bbl) [2] (./sample.aux)
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 41.
+ (./exercise.bbl
+Underfull \hbox (badness 4582) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10.95 IMD.  IMD world dig-i-tal com-pet-i-tive-ness rank-ing.  $\OT1/cmtt/m/n/10.95 https : / / www . imd . org / centers /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/10.95 OECD.  Broad-band Por-tal.  $\OT1/cmtt/m/n/10.95 https : / / www . oecd . org / digital / broadband /
+ []
+
+) [2] (./exercise.aux)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2023-11-01> patch level 1
@@ -129,11 +140,11 @@ L3 programming layer <2024-01-22>
  ) 
 Here is how much of TeX's memory you used:
  1080 strings out of 474880
- 17921 string characters out of 5763319
- 1923820 words of memory out of 5000000
+ 17926 string characters out of 5763319
+ 1925820 words of memory out of 5000000
  23375 multiletter control sequences out of 15000+600000
  567279 words of font info for 81 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,8n,65p,250b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,284b,306s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sample.dvi (2 pages, 4660 bytes).
+Output written on exercise.dvi (2 pages, 4832 bytes).
